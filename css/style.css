@@ -9383,8 +9383,8 @@ textarea {
       .site-nav .site-navigation .site-menu > li.cta-button a {
         padding: 6px 20px;
         border-radius: 30px;
-        background: #f17945;
-        border: 2px solid #f17945; }
+        background: #00008b;
+        border: 2px solid #00008b; }
         .site-nav .site-navigation .site-menu > li.cta-button a:hover {
           color: #fff;
           background: transparent;
@@ -10042,7 +10042,7 @@ textarea {
       border-radius: 50%; }
     .block-testimonial .author h3, .block-testimonial .author .h3 {
       font-size: 18px;
-      color: #f17945;
+      color: #00008b;
       margin-bottom: 0; }
     .block-testimonial .author .position {
       font-size: 14px; }
